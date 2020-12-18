@@ -1,4 +1,4 @@
-# Project Name
+# Cookie Clicker
 
 > This is a very simple Cookie Clicker made with React.
 
